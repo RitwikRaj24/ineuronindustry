@@ -3,3 +3,4 @@
 ## This is the third line 
 ## Learning how to use Git
 ## Changes for the developer1 branch 
+## Changes for the developer2 branch
